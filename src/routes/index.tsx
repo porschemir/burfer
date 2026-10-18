@@ -1,7 +1,7 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { ExternalLink } from "lucide-react";
 
-const TARGET_URL = "https://google.com";
+const TARGET_URL = "https://rco.rwadlar.com/";
 
 export const Route = createFileRoute("/")({
   head: () => ({
